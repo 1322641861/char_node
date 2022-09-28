@@ -1,0 +1,16 @@
+{
+  "name": "talks_node",
+  "version": "1.0.0",
+  "description": "''\u001b[Dsocket'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyoga/uni-socket.io": "^3.0.4",
+    "express": "^4.18.1",
+    "socket.io": "^2.3.0"
+  }
+}
